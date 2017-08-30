@@ -99,4 +99,4 @@ features = model.predict()
 ### Keras Example
 #### Cats and Dogs Classification in Jupyter Notebook
 [Keras 2.0 release notes](https://github.com/fchollet/keras/wiki/Keras-2.0-release-notes)
-[Keras-Learning_Notes](https://github.com/GuokaiLiu/Keras-Learning_Notes)
+[Keras-Learning-Notes](https://github.com/GuokaiLiu/Keras-Learning_Notes)
